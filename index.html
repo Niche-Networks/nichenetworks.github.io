@@ -4,23 +4,149 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>NicheNetworks.io</title>
-    <!--
-    <meta name="description" content="">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    -->
+    <title>Niche Networks Inc.</title>
+    <meta name="description" content="Niche Networks is a U.S.-based company specializing in web3, cryptocurrency, blockchain and distributed systems.">
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
   </head>
 
   <style>
-    body { background: #003; }
-    .logo { margin-top: 25vh; text-align: center; }
-    .logo img { height: 50vh; }
+    body {
+      text-align: center;
+      background: #003;
+      color: #ccf;
+      font-family: Courier, monospace;
+      padding: 20px;
+    }
+    .logo { margin-top: 1vh; margin-bottom: 1vh; text-align: center; }
+    .logo img { height: 40vh; }
+    .container {
+      background: #114;
+      max-width: 500px;
+      padding: 40px;
+      margin: 0 auto 40px auto;
+      text-align: left;
+      border-radius: 5px
+    }
+    h1, h2 {
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: 1.5rem;
+      margin-bottom: 40px;
+    }
+    p {
+      line-height: 1.5rem;
+      font-size: 1rem;
+    }
+    .project {
+      position: relative;
+      text-align: center;
+      margin-bottom: 100px;
+    }
+    .project h3 {
+      background: #003;
+      padding: 10px;
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: 1.5rem;
+      color: #ccf;
+      margin-bottom: 40px;
+      max-width: 75%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .project h3 a,
+    .project p a {
+      text-decoration: underline;
+      color: #ccf;
+    }
+    .project p {
+      font-size: .9rem;
+    }
+    .project-logo {
+      height: 80px;
+      width: 80px;
+      border-radius: 160px;
+      margin-bottom: 10px;
+      background: #fff;
+      border: 5px solid #ccf;
+    }
+    .project-logo#cf {
+      border: 5px solid #fff;
+    }
   </style>
 
   <body>
 
     <div class="logo">
       <img src="img/logo-color.svg" alt="Niche Networks Inc. logo" />
+    </div>
+
+    <div class="container">
+      <h1>
+      Niche Networks Inc. is a U.S.-based company specializing in web3, cryptocurrency, blockchain and distributed systems.
+      </h1>
+      <h2>
+      We work on both applications and infrastructure, as well as consult for select clients.
+      </h2>
+      <p>For inquiries, email: hello@microsponsors.io</p>
+
+    </div>
+
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <a href="https://wallet.matic.network/staking/validators/65">
+        <img
+          src="img/polygon-matic-logo.jpg"
+          alt="Polygon Matic Logo"
+          class="project-logo"
+          />
+        </a>
+        <h3>
+          <a href="https://wallet.matic.network/staking/validators/65">
+            Polygon Matic Validator #65
+          </a>
+        </h3>
+        <p>
+          Earn a generous APR by staking your $MATIC tokens on our
+          validator node in the <a href="https://polygon.technology/">Polygon Proof-of-Stake</a> Ethereum sidechain.
+        </p>
+      </div>
+      <div class="project">
+        <a href="https://microsponsors.io">
+        <img
+          src="img/microsponsors-logo-tile.png"
+          alt="Microsponsors Logo"
+          class="project-logo"
+          />
+        </a>
+        <h3>
+          <a href="https://microsponsors.io">
+            Microsponsors.io
+          </a>
+        </h3>
+        <p>
+          Buy + sell time slots as NFTs for banners embedded in your favorite websites. Launching soon on the Polygon Matic Network.
+        </p>
+      </div>
+      <div class="project">
+        <a href="https://cryptofilter.xyz">
+        <img
+          src="img/cryptofilter-logo.svg"
+          alt="Cryptofilter.xyz Logo"
+          class="project-logo"
+          id="cf"
+          />
+        </a>
+        <h3>
+          <a href="https://cryptofilter.xyz">
+            Cryptofilter.xyz
+          </a>
+        </h3>
+        <p>
+          A news + information aggregator for crypto, defi and web3. Gamified with a leaderboard for top contributors.
+        </p>
+      </div>
     </div>
 
   </body>
