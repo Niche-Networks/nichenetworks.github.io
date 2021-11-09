@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Niche Networks Inc.</title>
-    <meta name="description" content="Niche Networks is a U.S.-based company specializing in Web3, Cryptocurrency, Blockchain and Distributed Systems.">
+    <title>Niche Networks - Crypto consulting and advisory</title>
+    <meta name="description" content="Niche Networks is a U.S.-based specialist in Web 3, cryptocurrencies, blockchain, DeFi, NFTs, DAOs and other decentralized and distributed networks and assets.">
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
   </head>
 
@@ -38,9 +38,12 @@
       line-height: 1.5rem;
       margin-bottom: 40px;
     }
-    p {
+    .paragraph, .project p {
+      font-size: 0.9rem;
       line-height: 1.5rem;
-      font-size: 1rem;
+    }
+    .paragraph .link {
+      color: #66ccff;
     }
     .project {
       position: relative;
@@ -48,7 +51,7 @@
       margin-bottom: 100px;
     }
     .project.decomissioned {
-      opacity: 0.5;
+      opacity: 0.7;
     }
     .project h3 {
       font-family: Arial, Helvetica, sans-serif;
@@ -65,20 +68,14 @@
       margin-left: auto;
       margin-right: auto;
     }
-    .project p {
-      font-size: .9rem;
-    }
     .project-logo {
       height: 80px;
-      width: 80px;
-      border-radius: 160px;
       margin-bottom: 10px;
       background: #fff;
-      border: 5px solid #ccf;
+      border-radius: 10px;
     }
     .project-logo#cf,
     .project-logo#ddao {
-      border: 5px solid #fff;
     }
     .project-logo#msp {
       border-color: #003;
@@ -96,13 +93,13 @@
     </div>
 
     <div class="container">
-      <h1>
-      Niche Networks Inc. is a U.S.-based specialist in Web3, Cryptocurrencies, DeFi, NFTs, DAOs and other Decentralized and Distributed Systems.
+      <h1 class="paragraph">
+      Niche Networks is a U.S.-based specialist in Web 3, cryptocurrencies, blockchain, DeFi, NFTs, DAOs and other decentralized and distributed networks and assets.
       </h1>
-      <h2>
-      We work on both applications and infrastructure, as well as provide advisory and consulting for select projects and clients.
+      <h2 class="paragraph">
+      Specializing in both applications and infrastructure, as well as providing advisory and consulting for select projects and clients.
       </h2>
-      <p>For inquiries, email:
+      <p class="paragraph">For inquiries, email:
         hello<span class="dnone">/</span>@<span class="dnone">/</span>cryptofilter.xyz</p>
     </div>
 
@@ -130,21 +127,21 @@
       </div>
 
       <div class="project">
-        <a href="https://decrypt.co/">
+        <a href="https://pubdao.co">
         <img
-          src="img/decrypt-mark-100.png"
-          alt="Decrypt Logo"
+          src="img/pubdao-logo.jpg"
+          alt="Pub DAO Logo"
           class="project-logo"
           id="ddao"
           />
         </a>
         <h3>
-          <a href="https://decrypt.co">
-            Decrypt DAO
+          <a href="https://pubdao.co">
+            Pub DAO
           </a>
         </h3>
         <p>
-          Technical advisory for the new Decrypt DAO focused on decentralized news and media production.
+          Advisory and consulting for the new Pub DAO focused on decentralized news and media production.
         </p>
       </div>
 
@@ -165,7 +162,25 @@
         <p>Curation for TheGraph.com's decentralized indexing service, an emergent and powerful database infrastructure for Web3.</p>
       </div>
 
-      <h2>Past:</h2>
+      <h2 style="padding-top:40px;">Past:</h2>
+
+      <div class="project decomissioned">
+        <a href="https://opensea.io/collection/thecurrency">
+        <img
+          src="img/the-currency.jpg"
+          alt="The Currency by Damien Hirst"
+          class="project-logo"
+          />
+        </a>
+        <h3>
+          <a href="https://opensea.io/collection/thecurrency">
+            The Currency by Damien Hirst
+          </a>
+        </h3>
+        <p>
+          Advisory and consulting on Damien Hirst's innovative NFT drop. The Currency explores the boundaries of art and currency — when art changes and becomes a currency, and when currency becomes art.
+        </p>
+      </div>
 
       <div class="project decomissioned">
         <a href="https://wallet.matic.network/staking/validators/65">
@@ -181,8 +196,7 @@
           </a>
         </h3>
         <p>
-          Earn a generous APR by staking your $MATIC tokens on our
-          validator node in the <a href="https://polygon.technology/">Polygon Proof-of-Stake</a> Ethereum sidechain.
+          [Decomissioned] Earn a generous APR by staking your $MATIC tokens on our validator node in the <a href="https://polygon.technology/">Polygon Proof-of-Stake</a> Ethereum sidechain.
         </p>
       </div>
 
@@ -210,7 +224,7 @@
 
     <div class="container">
       <h2>Founder</h2>
-      <p>Lauren Garcia, follow on Twitter &rarr; <a href="https://twitter.com/_eljee">@_eljee</a></p>
+      <p class="paragraph">Lauren Garcia, follow on Twitter &rarr; <a href="https://twitter.com/_eljee" class="link">@_eljee</a></p>
     </div>
 
   </body>
