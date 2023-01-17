@@ -1,0 +1,361 @@
+
+Every few months I post some predictions here.
+
+
+-----------
+[Q1 2023]
+
+
+Hypothesis:
+"Blue chip DeFi & DEX Emerge from the bear market"
+
+Brutal bear market leads to consolidation, much like 2000's era of internet startups. What are the Amazons and Googles that will emerge as winners of crypto?
+
+DEX: FTX collapse has perfectly and memorably articulated the case for DEX.
+
+DeFi: Transparent on-chain money markets. SBF paid back his DeFi loans first.
+
+CeDeFi: Centralized stablecoins, censorable & backed by US Treasuries (Tether not going anywhere tho, it is too useful to powerful actors in gray markets around the world). CEX'es also have incredible opportunity to harness defi for the masses, with buttery UX & regulatory compliance. DEX & CEX will eventually converge (Coinbase stock not a bad hedge here).
+
+Winners: Uniswap, 0x, Aave, Curve Finance, Coinbase as hedge.
+
+Unclear how $UNI token captures value of protocol, esp w equity shares in the mix (token holders vs. equity holders). $AAVE might be lowkey in same situation, only from opposite direction (are they issuing equity for private money market products?). $CRV is pursuing decentralized stablecoin, and either way is the most used DEX for stablecoins, the use-case for crypto with most PMF (regulatory risk: big gov & tradfi hate decentralized stablecoin, could engineer a Luna-like crash). $CRV also has big token unlocks in 2023.
+
+
+Hypothesis:
+"Modular app-chains on Cosmos"
+
+DYDX chose to move to Cosmos rather than Ethereum layer 2. Probably bc using an app chain solves problems of security, MEV, general value extraction by the underlying blockchain infra. $DYDX token used for infra layer also means more decentralization of protocol. Theirs is Orderbook model with off-chain orders stored in-memory by validators of sovreign blockchain made possible by flexibility of Cosmos SDK. More projects will choose Cosmos for this reason, plus ability to use their app-token for sovreign security on own chain. Upgrades to Cosmos that allow security to be "rented" from larger cross-chain network will accelerate trend.
+
+
+Hypothesis:
+"3-digit $ETH following Beacon Chain unlock in March 2023"
+
+Shanghai update in March will unlock Beacon Chain stakers who have been patiently waiting. Ethereum will undergo temporary sell pressure from this one-time momentous event and tumble down into 3-digits before recovering. Be patient. Long-term $ETH becomes deflationary and crosses 5-digits in the next bull run (2024-2025). There will be at least one disaster with a liquid staking derivative (LSD) token.
+
+
+Hypothesis:
+"A Web 3 social network arrives (finally)"
+
+A hypothesis with -- perhaps -- a long time horizon. The biggest question here is: Will it emerge from Web2 co's that embrace crypto ("outside-in", Ex: Reddit, Starbucks, Twitter?), or from crypto-native organizations/protocols that finally get as much traction as a Web2 co. ("inside-out", Ex: Lens, Farcaster, art/music NFTs). Perhaps they converge, similar to CEX & DEX. Arguably, the NFT communities on Ethereum base layer are already a proto-social network of their own. But that world still lacks fundamental infra (Ex: over-reliance on Discord).
+
+
+Hypothesis:
+"AI & blockchains converge"
+
+Also longer time horizon. Decentralized storage archives like IPFS become training ground for AI, which accelerates but faces regulatory backlash around copyright. Data unions finally emerge that compensate creators for recombinant works produced by AI based on their originals. This seemed obvious years ago but AI has finally caught up. Tokenized machine-to-machine payments facilitate autonomous machine learning in these playgrounds. Integration with something like Neuralink or even a sophisticated wearable AR/VR creates cyborg humans capable of learning Kung Fu like Neo in The Matrix.
+
+Potential local headwind here could be if China invades Taiwan and there is a semiconductor crisis that hamstrings progress via supply chain disruption.
+
+
+
+
+-----------
+[Q1 2022]
+
+Hypothesis:
+"Next-level infrastructure: Layer 0"
+
+The emergence of MEV & Flashbots on Ethereum was only the start. MEV could affect proof-of-stake networks & rollups disproportionately given the systemic advantages of PoS validators & rollup operators w/r/t MEV.
+
+If we embrace premise that protocol base layers + L2s will not attempt to solve MEV w their own "fair ordering" mechanisms, then we need incentivization solutions for privacy-preserving packet delivery & network routing (Layer 0).
+
+Decentralized, blockchain-agnostic solutions to MEV are preferable.
+
+REGULATION:
+Front-running is prohibited in TradFi and heavily regulated, NOT incentivized.
+
+UX:
+MEV is poor UX for end-users. In Proof-of-Stake MEV particularly problematic.
+Why would stakeholders opt into this?
+  - Validators want revenue bump for accepting MEV bundles
+  - Users & market makers only want to use networks that are "fair" (no MEV)
+  - Low-cost blockchains will want to reduce MEV spam
+  - MEV in current form (Flashbots) is centralizing force
+
+
+
+-----------
+[Q4 2021]
+
+Hypothesis:
+"Then they fight you"
+
+The currency wars start to really heat up. Nation-states and Big Banks team up w their politicians, judges, armies & perhaps covert intelligence to take control of crypto protocols, starting w stablecoins & stablecoin platforms & services first.
+
+Powerful actors that are out of position on this trend will short existing crypto assets and use regulators as cudgels until they get into favorable position. Wild volatility ensues.
+
+https://decrypt.co/91301/federal-reserve-crypto-regulation-plan-stablecoins-big-banks
+
+
+
+
+-----------
+[Q2 2021]
+
+Hypothesis:
+"1000 True Fans + Cryptoeconomics"
+
+The perverse incentives of media in Web2.0 (clickbait, outrage porn) will be transformed thru well-designed crypto-economics. Media distribution will fundamentally change as audiences atomize into smaller niche communities.
+
+Cryptoeconomics will enable creators of all kinds to leverage smaller niche audiences to support their work.
+
+Open question:
+Where do traditional publishers come out in all of this?
+
+https://kk.org/thetechnium/1000-true-fans/
+https://li-jin.co/2020/02/19/100-true-fans/
+
+
+
+
+-----------
+[Q4 2020]
+
+
+Hypothesis:
+"Staking is the new corp bond yield"
+
+Globally, interest rates are going to go from low to even negative(!). Sources of yield will be scarce, which means staking on crypto-networks becomes the new source of steady yield (what corp bonds used to be).
+
+
+Hypothesis:
+"Crypto Payments in SE Asia"
+
+Both individuals and businesses in SE Asia are unbanked/ underbanked. Stablecoins on crypto rails that give this population access to electronic payments and credit (defi) will win. Watch out for digital yuan, PBOC tho.
+
+Asia always leads the way with tech innovation, esp S. Korea & Singapore.
+Less regulatory friction for stablecoins as well.
+
+Accumulate & stake $LUNA
+
+
+Hypothesis:
+"Emergence of DevDAOs"
+
+Mainstream users need easier ways to get exposure to crypto networks that require work (i.e. running staking nodes, curating The Graph etc). In a "DevDAO", mainstream (non-technical) users could stake w set of active developers in the ecosystem. Upside: The devs get access to higher stake (= higher yields for work), and the mainstream user gets exposure to the higher yield as well. Better returns for everyone than old fashioned freelancing platform(!).
+
+Open Questions:
+- Would this be better structured as a 2-and-20 hedge fund managed top-down?
+  How is distributed governance better (or is it worse) -?
+- Is this just a "curation" DAO?
+  - Opportunities must be scouted
+  - Technical contributors must be scouted
+  - Both must be managed
+- Is already happening organically on staking networks, what does this add?
+  - Diligence around opportunities
+  - Can build opinionated portfolio about what work is most valuable
+- How do "trustlessness" and collaboration go together? Do they?
+
+Perhaps a hybrid model is best suited:
+transparency of a DAO w top-down management of hedge fund
+
+
+
+
+-----------
+[Q3 2020]
+
+
+Hypothesis:
+"Bootstrapping Liquidity: Focus on Incentives"
+
+Bootstrap liquidity from community via a token. Get some meager funding, run a token sale to raise more $, incentivize users.
+
+Ex: $COMP (Compound Governance Token) - the beginning of "liquidy mining" for money markets.
+
+How will other types of Web3 apps bootstrap liquidity?
+
+
+Hypothesis:
+"For Microsponsors: Narrow product focus -- Do 1 thing well"
+
+For Microsponsors - Validated by Mike Kriak of Consensys
+Current product is spread too thin.
+Focus on ONE THING (!) and do it really well:
+Scheduled Contextual Advertising
+Build a worthy competitor to BuySellAds.com with lots of publisher inventory and crypto payments rails
+Help Publishers & Advertisers connect DIRECTLY
+"Supports platform-independent content creation"
+
+Example: 0xTracker.com
+Perfect case study, implementation is 0xTracker.com
+Focus on streamlining that use-case from end to end in near term.
+
+
+
+
+-----------
+[Q2 2020]
+
+
+Hypothesis:
+"DApp devs also need to run validators"
+
+Ethereum Dapps aren't DAOs or companies. They are first and foremost open-source design patterns that will be commoditized over time (ex: Uniswap).
+
+DApp developers need to participate in economic growth at the network level to capture the most value from their dapp. In other words: dapps are easy to copy & have thin moats, so a builder must have a stake in the underlying network protocol if they're going to add value AND extract it.
+
+Additionally, "money legos" work synergistically on the network, so adding value to a network in the form of building an application on it increases the value of the entire network, and that value can be captured by a network validator (or staker, in the case of Proof-of-Stake networks).
+
+
+Hypothesis:
+"Layer 2 Scaling"
+
+Esp. with the rise of liquidity mining, tx volume is way up. Altho it has incredible network effects, transacting on Eth mainnet is too expensive for most.
+
+Look to the Layer 2 protocols that have adoption, momentum, strong business development efforts and are ruthlessly pragmatic & cheap for end-users.
+
+Accumulate $MATIC, stake it in a validator.
+
+
+Hypothesis:
+"Blockchain is the backend"
+
+Alot of Ethereum DeFi will get tucked away from end-user perspective. Loyalty + game "points" (ex: Reddit) will be distributed to users and cashed out via CEXs (Coinbase, Gemini). These retail users will use CEX to exchange points for dollars, securities, etc or for liquid staking on cryptonetworks.
+
+Where does this leave Decetentralized Exchange?
+DEX & DeFi will be for market makers <> CEX (0x pivoted their token model to benefit market makers -- not sure if they will be successful but the general thesis stands). In the future, "retail" users wont be using blockchain directly.
+
+DEX for B2B(!) <-- !!!
+Microsponsors could be the backend of a variety of applications, but most bullish on it as a utility that powers financing Creators of websites, events, builders etc. The on-chain NFT time slots are a crypto-primitive that can serve as a kind of credit history and lenders can use this to help evaluate Creators & fund their projects up-front (partner w/ Maple Finance etc).
+
+
+
+
+-----------
+[Q1 2020]
+
+
+Hypothesis:
+"The Open Orderbook Model (like 0x) is for Non-Fungible Tokens Now"
+
+Said to me at a conference recently by a guy working on a pooled liquidity solution: "Orderbooks made sense when it was a bunch of guys smoking cigars and screaming at each other in one room". Liquidity pools (Uniswap, Bancor) are much more efficient for ERC20 exchange (fungible digital assets) than open orderbooks.
+
+BUT: Orderbook model like 0x has the ability to eat every Web2 marketplace via NFTs, which can be unique and have data fields attached to each token.
+
+Edibles: Amazon, Uber, eBay, Etsy, Spotify, all of AdTech etc.
+
+
+Hypothesis:
+"Monetization/ Payments for the Cozy Web"
+
+People are going to start segmenting themselves into WeChat/ WhatsApp/ Discord groups. The "public square" model of social media is problematic for so many reasons (mass manipulation, "cancel culture", etc).
+
+https://twitter.com/tommycollison/status/1227268397177679872
+
+
+
+
+-----------
+[Q4 2019]
+
+
+Hypothesis:
+"B2B will go P2P"
+
+The advantages of crypto/ P2P decentralized exchange will be very persuasive for B2B markets (real-time payments, transparent debt markets) -- once they get their heads around it and UX is smoothed out.
+
+Microsponsors is a B2B tool, and it will be part of a media buyers' job to use it, whether for a brand or agency or labor force minting tokens.
+
+https://alexdanco.com/2020/02/07/debt-is-coming/
+
+Tl;dr - Debt might be better for startups than all-equity capital stacks. All-equity capital stacks work better for Finance Capital (Investors) rather than Productive Capital (Operators). Investors pumping valuation of their portfolio co.'s round after round is bad for the companies (creates down-rounds, often played out in public markets; "VC dumps").
+
+The debt model works REALLY well in crypto, both from a financing/ infrastructure AND regulatory standpoint. Esp for recurring revenue/ SaaS biz models where co. needs up-front capital to acquire users who throw off predictable revenue streams going forward.
+
+
+Hypothesis:
+"P2P Decentralized Production & Distribution is the Future"
+
+The next civilization will be powered by P2P production. A research project led by the P2P Foundation on the thermodynamic efficiencies of peer production found that a transition to open and shared models can result in an 80% saving in the amount of matter and energy used in running our society.
+
+https://wiki.p2pfoundation.net/Thermodynamic_Efficiencies_of_Peer_Production
+https://twitter.com/eriktorenberg/status/1203417992786141185
+
+
+
+
+-----------
+[Q3 2019]
+
+Hypothesis:
+"Software is eating the world ...and Eth is programmable money"
+
+Just as software is eating the world, usage of programmable money like Eth & ERC-20 based Stablecoins will begin to devour the first markets they touch: Gaming, Finance (the Great Unbundling of Banks), Investment (Debt, STOs), Legal, Contracts, ... And these markets will grow and demand ETH-native AdTech.
+
+Build for a small user base (crypto folks building DeFi, games, investment vehicles on Ethereum), and bet that this ecosystem will grow as programmable money eats these sectors.
+
+
+
+
+-----------
+[Q2 2019]
+
+Hypothesis:
+"Grassroots-Local Bootstrap Strategy"
+
+A market already exists in the US that could bootstrap Microsponsors at a grassroots/ local level. Because this market has not found a company(ies) to harness their potential, they have fallen back to defrauding ad networks in exchange for phone farming. If a company were to come along and harness this market for legitimate passive income earning, these early adopters could bootstrap a network of 0x relayers with strong incentives.
+
+Discord "ECashSociety" channel
+https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm
+
+Ingredients: Coupons/offers platform, affiliate fees, onboarded merchants, phone farmers.
+
+
+Hypothesis:
+"Web3 (the Internet of Value) needs privacy to be the default"
+
+As we transition from Web 2.0 -> Web 3.0, the Web 2.0 values of openness and sharing will evolve to center individual privacy, with the *option* to publicly share info. As we transition to networked value in the form of cryptocurrency and programmable money, lack of privacy becomes a pitfall, not a value prop.
+
+There is a massive gap where privacy-oriented marketing tools/ platforms should be.
+
+
+
+
+-----------
+[Q1 2019]
+
+
+Hypothesis:
+"Niche Networks: Riches in niches (esp LOCAL!)"
+
+Hypothesis: The general trend in social media is going to be toward niche groups/ chats. More trust and safety with fellow travelers, content more contextualized and relevant. Ephemeral chat channels are a huge component of these emerging niche markets.
+
+https://a16z.com/2019/09/06/china-is-cashing-in-on-group-chats/
+
+https://www.niemanlab.org/2015/06/the-shire-or-darwins-game-here-are-4-visions-of-what-journalism-might-look-like-in-2025/
+
+Ingredients: Chat groups, coupons/offers platform, affiliate fees, onboarded merchants. Specialized, semi-private channels like Telegram groups run by curators who push offers and deals thru, esp those focused on local experiences.
+
+
+
+
+-----------
+[Q1 2019]
+
+
+Hypothesis:
+"Buidl on Ethereum: Go where the devs are!"
+
+A key decision point was committing to 0x Protocol + Ethereum ecosystem (vs. smthg like or EOS, Hashgraph, Blockstack or Holochain). Tech development seems to be happening on Ethereum at a breakneck pace, tools are still in beta but at least they work (mostly). Participation in 0x Hackathon was key, proved a Proof-of-Concept was possible. Holochain dev team couldnt get back to me and were having trouble executing. Hashgraph team seemed too "enterprise" (KYC just to report testnet bugs), and their onboarding process for devs to their test platform was utterly broken, poorly executed.
+
+Open permissionless standards, processes and development always win. Ethereum + 0x Protocol FTW.
+
+Ingredients: Infrastructure, tooling, plan/ability to scale. Composability of Web3.
+
+
+
+
+-----------
+[Q3 2018]
+
+
+Hypothesis:
+"Crypto-networks of Contribution-Based Equity"
+
+The jig is up for marketplace apps like Uber that are centralized and siphoning disproportionate value away from users of the network. Gig-economy user-workers are fed up, regulators taking aim. Contribution-based equity networks are the future, but tech needs to build it first. Cryptocurrency/ blockchain is uniquely positioned to facilitate this efficiently. Could be massively disruptive to: Uber, Amazon, food delivery apps like DoorDash, Postmates, apps that exploit commoditized labor.
+
+Main ingredient: Token that captures value of crypto-network. Preferably a utility token so # of participants is not limited by securities laws (unless those caps are increased by SEC and/or lawmakers).
+
+
