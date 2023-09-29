@@ -3,6 +3,51 @@ Every few months I post some predictions here.
 
 
 -----------
+[Q3 2023]
+
+Hypothesis:
+"Social Graphs on Ethereum Layer 2's"
+
+Although Ethereum has the most significant network effect of any blockchain network, it still doesn't have a proper social graph that can be used to bootstrap an open social network. The roadblocks have been significant -- Layer 1 is expensive & not scalable. Layer 2's present the opportunity to finally create a user-owned/ user-controlled social network based on open blockchain data that is scalable & cheap. Other cheaper blockchains or alternatives might pop up in the future but i dont currently see any with enough network effects (maybe Solana at its peak via STEPN etc lol but that's over for now due to Sam and Solana will struggle in shadows for a while). Network effects are powerful in social and it will be hard to play catch-up.
+
+An open social graph like like this is a pre-requisite to making consumer/ social crypto happen.
+
+Watchlist:
+
+Lens Protocol - https://www.lens.xyz/
+  Built on Polygon, funded by Stani from Aave. Flagship apps so far: Lenster (rebranded Hey.xyz yesterday) and Orb app.
+  $15M funding round on June 8 2023 led by IDEO CoLab. Orb also raised $2.5M separately.
+  Solid, simple architecture. Good developer docs & SDK, boilerplate code and widgets/ embeds to get started quickly.
+  Waitlist only (closed beta) for now, even so it has 125,254 profiles created as of today.
+  Profiles, Follows and Collect (publications) are minted as NFTs on Polygon, making it dead simple to get started as user or app dev.
+  Just launched "Open Actions" = social graph + onchain tx.
+  Profile Creation Proxy:
+    https://polygonscan.com/address/0x1eec6eccaa4625da3fa6cd6339dbcc2418710e8a
+
+Farcaster - https://www.farcaster.xyz/
+  Built originally on Mainnet (i think?) but seems to be migrating to Optimism. Endorsed/ funded by Vitalik.
+  Website claims ~15k signups and >1M posts by users but I only see very few profile creations on Optimism so far (22)?
+  Stats (assume this is mainly mainnet): https://farcaster.network/
+  Flagship app Warpcast: https://warpcast.com/
+  Farcaster Id Registry on Optimism:
+    https://optimistic.etherscan.io/address/0x00000000fcaf86937e41ba038b4fa40baa4b780a
+  Built around idea of "Hub" servers which are not federated, must store all user data in P2P network.
+  Its an attempt to charge users rent to store data on network. Yearly fee to each profile to prevent spam.
+  Complicated rent pricing scheme to post via "Storage Registry" is not good, the most anti-viral mechanism i've seen in social media lol.
+  Integrated with ENS names.
+
+ENS - https://ens.domains/
+  Claims 2.58M names registered by 745k owners (on Mainnet only? not clear)
+  Funded as "public good" and has a gov token + DAO.
+  Plan for scaling to L2 but doesn't seem like support is robust yet:
+    https://discuss.ens.domains/t/resolving-l2-addresses-in-metamask-etherscan-other-wallets/17776
+  Mainnet ENS Base Registrar:
+  (activity level here can be deceptive bc many domains are bulk purchased/ renewed)
+    https://etherscan.io/address/0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85#nfttransfers
+
+
+
+-----------
 [Q1 2023]
 
 
