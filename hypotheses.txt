@@ -10,7 +10,7 @@ Hypothesis:
 
 Although Ethereum has the most significant network effect of any blockchain network, it still doesn't have a proper social graph that can be used to bootstrap an open social network. The roadblocks have been significant -- Layer 1 is expensive & not scalable. Layer 2's present the opportunity to finally create a user-owned/ user-controlled social network based on open blockchain data that is scalable & cheap. Other cheaper blockchains or alternatives might pop up in the future but i dont currently see any with enough network effects (maybe Solana at its peak via STEPN etc lol but that's over for now due to Sam and Solana will struggle in shadows for a while). Network effects are powerful in social and it will be hard to play catch-up.
 
-An open social graph like like this is a pre-requisite to making consumer/ social crypto happen.
+An open social graph like like this is a pre-requisite to making consumer/ social crypto happen. It's also possible that an existing Web2 company goes the other way and uses its existing network effect to bootstrap a Web3/ crypto social graph, most likely Elon/X.com or Coinbase or both.
 
 Watchlist:
 
