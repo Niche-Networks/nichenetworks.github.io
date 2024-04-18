@@ -2,6 +2,38 @@
 Every few months I post some predictions here.
 
 
+___________
+[Q1 2024]
+
+Hypothesis:
+"Re-Staking"
+
+Bitcoin ecosystem will speed-run history of Ethereum development & integrate best parts (zero knowledge proofs, re-staking, defi). There are considerable technical and political risks involved in each of these projects & their merits will have to be considered on a case-by-case basis. The political risk is laser-eye BTC purists may not want this "spam" on their blockchain & respond negatively by coding or forking out attempts like this (ex: Luke Dash trying to get Ordinals "NFTs" on BTC forked away by calling it spam).
+
+Larger implications: convergence of Ethereum & Bitcoin value propositions? Each with own competing native yield asset? Who wins? Bitcoin unlikely to natively "host" stablecoins like Ethereum, but could via zk L2s in the further future & UX would be same as Eth eco. BTC block times unlikely to speed up, so settlement time will remain slower for foreseeable future. Projects like this could be the big unlock BTC needs to solve long-term problem of diminishing miner block rewards under current halving schedule/ 21M cap.
+
+Bablyon (https://babylonchain.io/)
+  Exports BTC security via PoS checkpoints posted to BTC blockchain, similar to original Matic (Polygon) PoS sidechain
+  BTC can be "staked" via self-custody to lend additional security (reorg protection) to PoS partner chains
+  No bridging on the BTC side required, UTXO mechanism on BTC side makes it relatively native
+  First 2 PoS network partners: IBC Hub ($ATOM) & Polygon ($MATIC)
+  Can have any number of PoS network partners, cost will not change on BTC side
+  Value will accrue to 1/ BTC stakers earning yield 2/ rest of BTC holders who benefit indirectly from locked up BTC not moving
+  The question is how will this benefit holders of PoS tokens, perhaps via tax on BTC rewards?
+  PoS networks can issue fewer staking rewards, reducing their inflation (which is Expensive!)
+  Long-term, projects like this could dampen volatility of BTC via locking mechanisms like this
+  Strong founder David Tse, EECS Prof at UC Berkeley & Stanford
+  Backed by Eigenlayer founder, Polychain, Hack VC, Framework, Polygon Ventures(!), Castle Island, OkX & Symbolic Capital.
+  2 raises: equity w token warrant $8M seed & $18M Series A
+
+  Risks:
+    - Relatively low technical risk, since Babylon is just aggregating block headers & committing them as checkpoints to BTC. Not an L2.
+    - Relatively low political risk on BTC side, same reason. It does export BTC's security/ carbon footprint & muddies waters between PoS & PoW. So if your thesis is that BTC won't gain mass adoption due to carbon footprint/ ESG concerns, this may not be for you-- look at Eigenlayer. One could argue that ship has sailed with BTC ETFs in the wild.
+    - Some political risk on PoS side, if PoS chains don't accrue value from this partnership. Babylon needs to sweeten deal, at what cost?
+  Links:
+    https://forum.cosmos.network/t/bringing-bitcoin-security-to-the-cosmos-hub-with-babylon/13280
+
+
 -----------
 [Q4 2023]
 
@@ -102,7 +134,7 @@ A hypothesis with -- perhaps -- a long time horizon. The biggest question here i
 Hypothesis:
 "AI & blockchains converge"
 
-Also longer time horizon. Decentralized storage archives like IPFS become training ground for AI, which accelerates but faces regulatory backlash around copyright. Data unions finally emerge that compensate creators for recombinant works produced by AI based on their originals. This seemed obvious years ago but AI has finally caught up. Tokenized machine-to-machine payments facilitate autonomous machine learning in these playgrounds. Integration with something like Neuralink or even a sophisticated wearable AR/VR creates cyborg humans capable of learning Kung Fu like Neo in The Matrix.
+Also longer time horizon. Decentralized storage archives like IPFS ($FIL) & TheGraph ($GRT) become training ground for AI, which accelerates but faces regulatory backlash around copyright. Data unions finally emerge that compensate creators for recombinant works produced by AI based on their originals. This seemed obvious years ago but AI has finally caught up. Tokenized machine-to-machine payments facilitate autonomous machine learning in these playgrounds. Integration with something like Neuralink or even a sophisticated wearable AR/VR creates cyborg humans capable of learning Kung Fu like Neo in The Matrix.
 
 Potential local headwind here could be if China invades Taiwan and there is a semiconductor crisis that hamstrings progress via supply chain disruption.
 
