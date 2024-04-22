@@ -33,6 +33,10 @@ Neutral likely outcomes:
 
 The elephant in the room for me here is: why would the SEC choose to pick a fight with the protocol with THE most legal firepower in crypto? Are they looking for a high-profile "win" (risking high-profile loss)? Or is the intention to mostly lose while slowing down the industry, allowing incumbents to catch up?
 
+Sources:
+https://0x.org/docs/developer-resources/0x-legal-guide
+https://a16zcrypto.com/posts/article/case-studies-for-grading-recent-actions-how-the-sec-cftc-and-the-courts-measure-up/
+
 
 ___________
 [Q1 2024]
