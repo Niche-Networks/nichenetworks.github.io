@@ -1,5 +1,37 @@
 
 Every few months I post some predictions here.
+I mostly write these to help clarify thoughts & build conviction.
+Github repo if you want to verify commit dates: https://github.com/Niche-Networks/nichenetworks.github.io
+
+
+___________
+[Q2 2024]
+Hypothesis:
+"SEC's Wells Notice to Uniswap Labs is Bullish $UNI"
+
+- Uniswap has the most well-funded legal arm in the form of DeFi Education Fund (https://www.defieducationfund.org/)
+- Previous actions against ZeroEx, Coinbase already set precedents around "unhosted" wallets, autonomous protocols, etc.
+- Uniswap will almost certainly prevail on the most critical points for DeFi at large
+- The courts have proven to be more even-handed than the SEC leadership & grandstanding bank-captured legislators
+- Legal risk is already priced into the token & $UNI price now serves as a prediction market for DeFi regulation in US
+
+Positive possible outcomes:
+- Airdrops are legitimized for US participants
+- Clears the way for $UNI fee switch to finally be activated by the community of holders via governance vote
+- High-profile case will spotlight & possibly legitimize DeFi for those in finance outside of crypto
+- More case-law is put on record by the best arbiters -- the judicial branch -- which will help guide legislators in Congress to create better legal rails for crypto & DeFi
+
+Negative worst-case outcomes:
+- $UNI & many other cryptoassets that share characteristics are deemed securities
+- Airdrops are somehow deemed unregistered securities transactions
+- SEC demands KYC for users and/or liquidity providers using the protocol
+- Uniswap (the protocol) becomes bifurcated along nation-state boundaries, resulting in more fractured liquidity
+
+Neutral likely outcomes:
+- Wrist-slap fine & de-listing of small % of cryptoassets deemed securities traded on the protocol (per ZeroEx precedent with CFTC & derivatives)
+- Clearer definition of a "cryptoasset security" (thanks, Gary)
+
+The elephant in the room for me here is: why would the SEC choose to pick a fight with the protocol with THE most legal firepower in crypto? Are they looking for a high-profile "win" (risking high-profile loss)? Or is the intention to mostly lose while slowing down the industry, allowing incumbents to catch up?
 
 
 ___________
