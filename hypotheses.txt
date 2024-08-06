@@ -15,7 +15,7 @@ Hypothesis:
 - Younger voters (needed demographic) more likely to hold crypto
 - SEC chair Gensler is likely out anyway, has been reprimanded by both courts & legislature
 - Many defi protocols have "fee switches" awaiting "regulatory clarity" in US
-- "Useless governance tokens" can activate fee switches, token buybacks, airdrops, "dividends" as winds shift
+- "Useless governance tokens" can activate fee switches, token buybacks, airdrops, dividends, etc as winds shift
 - Blue Chip DeFi tokens win
 
 Outcomes that could nullify:
