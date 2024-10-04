@@ -5,6 +5,26 @@ To verify commit dates: https://github.com/Niche-Networks/nichenetworks.github.i
 
 
 ___________
+[Q4 2024]
+Hypothesis:
+"Economic security is NOT just a meme.
+It is the price tag for securing value with network effects."
+
+- Institutions cannot trust crypto networks whose 1/ cost to attack is too low and 2/ level of decentralization is too low. Nobody wants to put a Billion dollars of AUM on a network secured by a dozen or so of SBF's friends dumping its native token on each other. Especially if the circulating market cap of the network is lower than said AUM. You wouldn't put the Hope Diamond in a gym locker.
+- Economic security is NOT just a meme (unless your blockchain is full of worthless meme coins, in which case-- yes, it is just a meme).
+- Various blockchain/ ledger designs will eventually converge; the difference in the meantime will be in the tradeoffs chosen (level of decentralization, security, execution speed, scaling, etc) and what sequence these tradeoffs are delivered in.
+- Ultimately it will be economic security (cost to attack the network x AUM/ liquidity x level of decentralization) that will determine the adoption curve for institutional players from TradFi looking to secure millions/ billions in AUM.
+- Every crypto cycle will have one or more new "darling" layer1 networks that will get a foothold by choosing a different sequence of tradeoffs from Ethereum. But bc they will be behind in economic security, the users & use-cases will be transient locusts hopping from one new chain to the next until one of them achieves an escape velocity in terms of economic security (most won't, but it also won't matter for layer1's specialized in gaming, AI, energy or another theme that doesn't need to secure $Billions in AUM).
+- Economic security is the price tag for securing value at scale with network effects.
+
+Risks:
+- Ethereum ecosystem must deliver a solution to layer2 liquidity fragmentation or it risks being overtaken eventually, but that's likely coming in the form of Polygon AggLayer and/or OP Superchain or some solution at the base layer. Much of the value proposition of using a blockchain is in accessing its accumulated AUM/ liquidity, which reinforces the network effect. Web3 blockchains may prove to have even stronger network effects than web2 social networks.
+- Eventually a layer2's own token might pump such that its circulating market cap far exceeds its AUM, in which case it may not need ETH economic security or liquidity anymore. This is likely to happen, many times. Ethereum might function as a sort of stellar nursery, where small networks grow over time & eventually break off.
+- If not enough of the value of its layer2's filters back up to the Ethereum base chain token holders, the market cap of Ethereum may shrink.
+    - This could be solved by coupling ETH with its layer2's more tightly. Either by raising the fees the layer2's pay in ETH or making them stake ETH on the base chain in order to access its network effect. There's probably other clever ways to more deeply couple layer1 ETH and layer2 economic value that i just haven't thought of.
+
+
+___________
 [Q3 2024]
 Hypothesis:
 "Last Quarter's Hypothesis also Bullish Blue Chip DeFi -- Soon™"
