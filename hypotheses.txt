@@ -6,6 +6,35 @@ To verify commit dates: https://github.com/Niche-Networks/nichenetworks.github.i
 
 ___________
 [Q4 2024]
+
+Hypothesis:
+"Crypto Stablecoin Payments: Distribution x Distribution"
+
+Pre-requisites (these are all likely IMO):
+- Stablecoins on crypto rails take over payments & remittances (easier than physical cash, faster & cheaper than credit cards/ ACH/ wires, etc)
+- Stablecoin UX improves (it will, there's too much money on the line)
+- Reasonable stablecoin regulation for crypto networks across globe (banks won't want to give this market up but will be forced to; some banks will acquire the infrastructure to compete and become players here, too)
+- Bitcoin's value prop as "digital gold" doesn't suddenly switch to payments as Satoshi envisioned (this was already decided when BCASH & "big blockers" lost many years ago & it doesn't yet have a viable ZK L2; by the time it has viable ZK L2 for payments the network effects of players below will be too strong, plus Bitcoin is too volatile for day-to-day purchases and local users will demand conversion to stablecoins or local currency which will require addt'l transaction fees; Bitcoin's not a good unit of account as it stands today)
+
+Given the above, there are two categories of distribution that matter for stablecoin payment players competing in an open market:
+
+1/ Distribution, as in Market Penetration: access to merchants & end-users.
+    Critical factors:
+      - Crypto wallet infrastructure & UX
+      - Merchant preference & UX
+      - Cross-chain penetration
+    All will take time to get right.
+
+2/ Distribution, of a Token or Equity among stakeholders that accrues value of stablecoin cash flows:
+    - transaction fees
+    - US Treasury yields of underlying dollars
+
+Paypal vs. Coinbase vs. Stripe vs. <fill in the blank>
+The winner(s) will be the leader(s) in both categories of Distribution, or will be so strong in one category that they out-compete the leader in the other. Ultimately, End-users will always prefer to transact in a payments system that they have a stake in. We may see a situation where a stablecoin wins for a little while early in this race on the merit of 1/ but is ultimately overtaken due to 2/.
+
+In emerging free markets, 2/ will enable crypto stablecoin payments to out-compete digital payment systems that don't offer this perk (WeChat, Tether as it exists today).
+
+
 Hypothesis:
 "Economic security is NOT just a meme.
 It is the price tag for securing value with network effects."
