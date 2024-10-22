@@ -14,7 +14,7 @@ Pre-requisites (these are all likely IMO):
 - Stablecoins on crypto rails take over payments & remittances (easier than physical cash, faster & cheaper than credit cards/ ACH/ wires, etc)
 - Stablecoin UX improves (it will, there's too much money on the line)
 - Reasonable stablecoin regulation for crypto networks across globe (banks won't want to give this market up but will be forced to; some banks will acquire the infrastructure to compete and become players here, too)
-- Bitcoin's value prop as "digital gold" doesn't suddenly switch to payments as Satoshi envisioned (this was already decided when BCASH & "big blockers" lost many years ago & it doesn't yet have a viable ZK L2; by the time it has viable ZK L2 for payments the network effects of players below will be too strong, plus Bitcoin is too volatile for day-to-day purchases and local users will demand conversion to stablecoins or local currency which will require addt'l transaction fees; Bitcoin's not a good unit of account as it stands today)
+- Bitcoin's value prop as "digital gold" doesn't suddenly switch to payments as Satoshi envisioned (this was already decided when BCASH & "big blockers" lost many years ago & it doesn't yet have a viable ZK L2; by the time it has viable ZK L2 for payments the network effects of players below will be too strong, plus Bitcoin is too volatile for day-to-day purchases -- Bitcoin is not a good unit of account -- and local users will demand conversion to stablecoins or local currency which will require addt'l transaction fees).
 
 Given the above, there are two categories of distribution that matter for stablecoin payment players competing in an open market:
 
@@ -29,10 +29,24 @@ Given the above, there are two categories of distribution that matter for stable
     - transaction fees
     - US Treasury yields of underlying dollars
 
-Paypal vs. Coinbase vs. Stripe vs. <fill in the blank>
-The winner(s) will be the leader(s) in both categories of Distribution, or will be so strong in one category that they out-compete the leader in the other. Ultimately, End-users will always prefer to transact in a payments system that they have a stake in. We may see a situation where a stablecoin wins for a little while early in this race on the merit of 1/ but is ultimately overtaken due to 2/.
+Paypal ($PYUSD) vs. Coinbase/Circle ($USDC) vs. Stripe/Bridge (TBD) vs. Visa vs. <fill in the blank>
+The winner(s) will be the leader(s) in both categories of Distribution, or will be so strong in one category that they out-compete the leader in the other. Merchants, end-users, & other stakeholders will prefer a payments system that they have a stake in or can earn yeield from. We may see a situation where a stablecoin wins for a little while early in this race on the merit of 1/ but is ultimately overtaken due to 2/. Payment providers using stablecoins will also have to compete on terms such as chargebacks, bankruptcy provisions, etc.
 
-In emerging free markets, 2/ will enable crypto stablecoin payments to out-compete digital payment systems that don't offer this perk (WeChat, Tether as it exists today).
+In emerging free markets, 2/ will enable crypto stablecoin payments to out-compete digital payment systems that don't offer value accrual to stakeholders and/or end-users (ex: WeChat, Tether as it exists today). Network effects will compound this. But there will probably always be a market for payments with ultra-low-to-no fees & no terms at all in these markets (ex: Tether on Tron probably won't change much and will get a ton of usage for a while).
+
+Understanding these tradeoffs will be the work of institutional risk analysts. Matt Taibbi has already called out Circle publicly for their somewhat vague and terrible bankruptcy terms.
+
+You can bet on the payment providers or the underlying infrastructure that you anticipate they'll have to pay to use to reach end-users. You could also bet on any exchange with stablecoin pairs where market makers & other participants are likely to do large volumes.
+
+Decentralized stablecoins are a dead-end. At least for US dollars. The Fed and regulatory apparatus has zero appetite for a new crypto eurodollar market that they can't impose censorship on. Sometimes i wonder if Do Kwon & SBF's excess was stoked by entities with a vested interest in demonstrating massive, memorable failures for the public.
+
+Could see a stablecoin emerge that contains a basket of currencies; something like the original Libra Diem vision but not controlled by an entity like Facebook that is perceived as evil.
+
+Risks:
+- Mr Robot's E-Coin: Politician who promises "blockchain innovation" really means "E-Coin" on private bank blockchain rails, everything else becomes illegal.
+- Kwonification: One of these crypto stables blows up, has terrible or zero bankruptcy terms and many people are harmed. Which is why decent regulation is a pre-requisite here.
+- US CDBC: A variation where E-Coin's backend is the US Fed. Some politicians think this is a great idea. I doubt this gets traction politically in the US, plus its a stretch for the US government to develop something so multi-layered and technical in a timely manner. But if they were clever and engineered an emergency where they had to airdrop dollars, everyone would of course download the app or wallet and/or exchanges providers might be compelled to integrate it. Very long-term I could see a US CDBC living alongside other stablecoins with programmable features like "only valid for food", etc.
+
 
 
 Hypothesis:
