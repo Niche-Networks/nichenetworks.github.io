@@ -17,6 +17,7 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Polygon Ecosystem Analytics Services Proposal
+Proposed by: Lauren Garcia // eljee [at] protonmail.com
 Feb 14, 2025
 --
 
@@ -55,8 +56,10 @@ https://dune.com/lg_dune/polymarket-on-polygon
 
 PROPOSED BY:
 
-https://github.com/laurengarcia/
-https://x.com/_eljee
+Lauren Garcia
+  eljee [at] protonmail.com
+  https://x.com/_eljee
+  https://github.com/laurengarcia/
 
 Polygon supporter since 2019
 Polygon validator 2019-2021
@@ -105,3 +108,7 @@ LINKS:
   - https://forum.polygon.technology/t/community-grants-season-1-transparency-report/19958
   - https://dune.com/lg_dune/polymarket-on-polygon
   - https://dune.com/pricing
+
+
+--
+Contact: eljee [at] protonmail.com
