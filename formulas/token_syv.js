@@ -3,7 +3,7 @@ const dailyFeeRevenue = 20000; // In dollars
 const initialFeeRevenue = dailyFeeRevenue * 365; // Convert daily revenue to annual
 const growthRate = 0.10; // 10% annual growth during projection period
 const years = 5; // 5-year projection
-const discountRate = 0.15; // 15% discount rate
+const discountRate = 0.15; // 15% discount rate; make sure discount rate > growth rate!
 const terminalGrowth = 0.03; // 3% perpetual growth beyond projection period into the future
 const stakedTokens = 3_400_000_000; // 3.4 billion tokens staked
 
